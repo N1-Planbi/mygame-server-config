@@ -1,5 +1,5 @@
 {
-  "server_open": false,
+  "server_open": true,
   
-  "message": "서버점검중 입니다."
+  "message": "테스트중이라 불안정합니다.."
 }
